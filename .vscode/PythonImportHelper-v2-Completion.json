@@ -1,0 +1,13 @@
+[
+    {
+        "label": "mixer",
+        "importPath": "pygame",
+        "description": "pygame",
+        "isExtraImport": true,
+        "detail": "pygame",
+        "documentation": {
+            "value": "\n```python\nimport pygame\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]
